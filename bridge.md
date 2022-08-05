@@ -1,10 +1,10 @@
 # Summary
 
-Users can map ETH, BTC, stable coins and other assets to Heco through the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Heco.
+Users can map ETH, BTC, stable coins and other assets to Sardisthrough the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Heco.
 
 Heco encourages community developers to provide more decentralized cross-chain solutions.
 
-This document describes the option for project parties to map Tokens from the source chain to Heco on their own.
+This document describes the option for project parties to map Tokens from the source chain to Sardison their own.
 
 > [heco-brige ref here](./hecobridge.md)
 
@@ -14,7 +14,7 @@ The main processes include：
 
 ```
 1）Initial Preparation
-2）Source Chain -> Heco Chain
+2）Source Chain -> SardisChain
 3）Heco Chain -> Source Chain
 ```
 
@@ -33,7 +33,7 @@ Heco_Token: Token on Heco's chain
 
 2) Deploy Token on Heco: `Heco_Token`
 
-3) Deploy a lock address or contract on Heco `Heco_Lock_Addr`
+3) Deploy a lock address or contract on Sardis`Heco_Lock_Addr`
 
 If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
 
@@ -49,13 +49,13 @@ Translated with www.DeepL.com/Translator (free version)
 
 Transfer a certain amount of `Src_Token` to `Src_Lock_Addr` for locking
 
-2) Release `Heco_Token` on the Heco chain
+2) Release `Heco_Token` on the Sardischain
 
 Execute mint operation to give `Heco_Lock_Addr` the corresponding amount of `Heco_Token`
 
-## Heco chain->Source chain
+## Sardischain->Source chain
 
-1) Heco chain lock `Heco_Token`
+1) Sardischain lock `Heco_Token`
 
 Execute burn operation, destroy `Heco_Token`
 

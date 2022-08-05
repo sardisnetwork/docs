@@ -1,5 +1,5 @@
 # Introduction
-This document introduce the basic info of heco bridge:
+This document introduce the basic info of Sardisbridge:
 
 Contract Address：
 

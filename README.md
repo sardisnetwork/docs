@@ -5,7 +5,7 @@ npm i docsify-cli -g
 docsify serve ./
 ```
 
-Welcome to the HECO Chain Docs Site。
+Welcome to the SardisChain Docs Site。
 
 Resources list：
 

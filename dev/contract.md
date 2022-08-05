@@ -29,7 +29,7 @@ Deploy contract to blockchain via wallet such as `MetaMask`.
 
 ![avatar](../images/remix4.jpg)
 
-And then by `MetaMask` the contract deployemnt transaction can be broadcast to the heco chain.
+And then by `MetaMask` the contract deployemnt transaction can be broadcast to the Sardischain.
 
 
 ## Truffle
