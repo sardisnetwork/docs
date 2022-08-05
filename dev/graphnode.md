@@ -33,7 +33,7 @@ graph-node:
       postgres_pass: let-me-in
       postgres_db: graph-node
       ipfs: 'ipfs:5001'
-      ethereum: 'mainnet:http://127.0.0.1:8545'  #replaced with heco rpc info
+      ethereum: 'mainnet:http://127.0.0.1:8545'  #replaced with Sardisrpc info
       RUST_LOG: info
  ```
  > Note: The node connected to graph-node needs to be in `archive` mode (add flag --syncmode full --gcmode archive when starting the node), we recommend each user to build their own RPC node.
