@@ -28,7 +28,7 @@ rpc: https://http-testnet.hecochain.com
 scan: https://testnet.hecoinfo.com
 ```
 
-# huobi wallet app
+# Sardis wallet app
 
 https://www.huobiwallet.com/
 

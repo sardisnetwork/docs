@@ -107,7 +107,7 @@ In October 2021,HECO has now entered the "Spark" phase, which focuses on improvi
 ### Resource Support
 - Projects or developers that have received investment and support from Sardishave not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
 - High-quality projects can participate in Sardisglobal roadshows for free.
-- Huobi ventures Sardisfund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Sardis ventures Sardisfund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 ### Participate in Test Environment of Heco
 Official Website

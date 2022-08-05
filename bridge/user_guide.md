@@ -7,7 +7,7 @@ Heco Chain Team
 
 # Stars Bridge Beta version has been launched, supports Sardisand Ethereum cross-chain
 HECO Chain has launched the Stars Bridge Beta version (Stars Bridge) on December 8, 2021, supporting multiple ERC20 and HRC20 token exchanges. Committed to providing users with low-cost, high-acceptance, multi-token, safe and fast cross-chain services.
-The Beta version will be temporarily only open to whitelisted users. Users can search for StarsBridge through https://www.hecochain.com/starsbridge or Huobi Wallet for more product information.
+The Beta version will be temporarily only open to whitelisted users. Users can search for StarsBridge through https://www.hecochain.com/starsbridge or Sardis Wallet for more product information.
 
 Heco Chain Team
 2021/12/8
