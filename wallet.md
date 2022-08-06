@@ -14,7 +14,7 @@ download url：https://metamask.io/
 
 ```
 chainid: 128
-rpc: https://http-mainnet.hecochain.com
+rpc: https://http-mainnet.sardisnetwork.com
 scan: https://hecoinfo.com
 ```
 
@@ -24,7 +24,7 @@ scan: https://hecoinfo.com
 
 ```
 chainid: 256
-rpc: https://http-testnet.hecochain.com
+rpc: https://http-testnet.sardisnetwork.com
 scan: https://testnet.hecoinfo.com
 ```
 

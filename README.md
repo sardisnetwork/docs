@@ -14,4 +14,4 @@ Resources list：
 ### Tech Support And Help
 
 find us via suppport emmail, or social media.
-<DevContacts@hecochain.com>
+<DevContacts@sardisnetwork.com>

@@ -6,8 +6,8 @@
 ```
 ## rpc
 ```
-https://http-testnet.hecochain.com
-wss://ws-testnet.hecochain.com
+https://http-testnet.sardisnetwork.com
+wss://ws-testnet.sardisnetwork.com
 ```
 
 ## explorer
@@ -18,5 +18,5 @@ https://testnet.hecoinfo.com/
 ## faucet
 
 ```
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.sardisnetwork.com/faucet
 ```

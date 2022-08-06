@@ -7,8 +7,8 @@
 ## rpc
 
 ```
-https://http-mainnet.hecochain.com
-wss://ws-mainnet.hecochain.com
+https://http-mainnet.sardisnetwork.com
+wss://ws-mainnet.sardisnetwork.com
 ```
 
 ## explorer

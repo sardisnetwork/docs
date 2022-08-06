@@ -17,7 +17,7 @@ The process is:：
 
 1）Submit application
 
-contact bd or <devcontacts@hecochain.com>
+contact bd or <devcontacts@sardisnetwork.com>
 
 2）Deploy token contract
 

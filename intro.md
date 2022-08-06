@@ -111,23 +111,23 @@ In October 2021,HECO has now entered the "Spark" phase, which focuses on improvi
 
 ### Participate in Test Environment of Heco
 Official Website
-www.hecochain.com
+www.sardisnetwork.com
 
 Public Testnet
 chainid 256
 
 PRC
-wss://ws-testnet.hecochain.com 
-https://http-testnet.hecochain.com
+wss://ws-testnet.sardisnetwork.com 
+https://http-testnet.sardisnetwork.com
 
 Blockchain Explorer
-https://scan-testnet.hecochain.com
+https://scan-testnet.sardisnetwork.com
 
 Test Coin Faucet
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.sardisnetwork.com/faucet
 
 Technical Support Email
-DevContacts@hecochain.com
+DevContacts@sardisnetwork.com
 
 ## Interact with Us on Social Media
 
@@ -136,12 +136,12 @@ DevContacts@hecochain.com
 - Medium: https://medium.com/heco-chain
 - GitHub: https://github.com/stars-labs/
 - SardisExplorer: https://hecoinfo.com
-- Documentation: https://docs.hecochain.com/
-- Website: https://www.hecochain.com/en-us/
+- Documentation: https://docs.sardisnetwork.com/
+- Website: https://www.sardisnetwork.com/en-us/
   
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Sardisfor free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - Sardisannounces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (hecochain.com), and be cautious with private key phishing.
+- Do not misread the official website (sardisnetwork.com), and be cautious with private key phishing.

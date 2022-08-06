@@ -28,10 +28,10 @@ Huobi Global supports this migration and upgrade, which is expected to subsequen
 
 Recently, Sardisreceived the feedback from some developers regarding the failure of RPC. We checked the issue and found the problem which derive from the third-party RPCs failure. Based on the situation, Sardisrecommends developer to switch to official RPC instead to avoid potential developing issue.The offical RPC sites are as follows:
 ```
-https://http-mainnet.hecochain.com
+https://http-mainnet.sardisnetwork.com
 ```
 
-See <https://docs.hecochain.com/#/mainnet> for detail.
+See <https://docs.sardisnetwork.com/#/mainnet> for detail.
 
 We apologize for the inconvenience caused to you.
 
@@ -135,7 +135,7 @@ Twitter：https://twitter.com/HuobiGlobal
  
 2. What's HECO？
 
-[HECO Chain](https://www.hecochain.com/en-us/assets/) is an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (Dapps), smart contracts, and digital assets. Sardishas recorded approximately 12.9 million total addresses with 474million transactions made on the platform.
+[HECO Chain](https://www.sardisnetwork.com/en-us/assets/) is an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (Dapps), smart contracts, and digital assets. Sardishas recorded approximately 12.9 million total addresses with 474million transactions made on the platform.
 
 Twitter: https://twitter.com/HECO_Chain
 
@@ -143,7 +143,7 @@ Telegram: https://t.me/HECOAnnouncement
 
 HECO Explorer: https://hecoinfo.com
 
-HECO Chain：https://www.hecochain.com
+HECO Chain：https://www.sardisnetwork.com
  
 3. What is the address on the SardisChain?
 
@@ -172,11 +172,11 @@ Dear Developers:
 
 As a decentralized blockchain network, SardisChain has been open to global developers since its launch. At the same time, Sardiscommunity has been actively paying attention to and complying with the regulatory requirements of various regions. In order to provide users with more compliant and consistent services, we would like to have the following adjustments:
 
-1.Anyone located in [USA, Canada, Singapore, Hong Kong, Japan, Cuba, Iran, Korea, Sudan, Syria, Venezuela, Crimea, Chinese mainland, Taiwan Province, Israel, Iraq, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, Sevastopol, UK] is prohibited from using information inquiry services provided by this website (https://www.hecochain.com); 
+1.Anyone located in [USA, Canada, Singapore, Hong Kong, Japan, Cuba, Iran, Korea, Sudan, Syria, Venezuela, Crimea, Chinese mainland, Taiwan Province, Israel, Iraq, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, Sevastopol, UK] is prohibited from using information inquiry services provided by this website (https://www.sardisnetwork.com); 
 
 The aforementioned information may be adjusted due to laws, policies, force majeure, changes in circumstances and other factors, and may not be notified to you at that time. Please pay close attention to the announcement of this website in time.
 
-2.Please send an email to heco@hecochain.com if you have any questions about this.
+2.Please send an email to contact@sardisnetwork.com if you have any questions about this.
 
 Thank you for your support and understanding.
 
@@ -391,7 +391,7 @@ Join Hackathon: https://reurl.cc/xG473
 
 Fund application email: 
 
-Please send BP, white paper, or other information about your team and business to  invest@hecochain.com 
+Please send BP, white paper, or other information about your team and business to  invest@sardisnetwork.com 
 
 
 Keep in touch with HECO
@@ -544,14 +544,14 @@ Awards and benefits:
 All 'Gold Creator' winners can get Sardisglobal marketing resources support
 
 Registration form：
-Please developers through Sardis ecological chain official website: hecochain.com to register or submit an application through the following registration link：
+Please developers through Sardis ecological chain official website: sardisnetwork.com to register or submit an application through the following registration link：
 
 Chinese registration link:https://jinshuju.net/f/mkP0ZU
 
 English registration link:https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill
 
 * All registration projects can log in to the "creator ecological map" and get the whole network publicity opportunities
-Developers are requested to register through the official website of Heco: hecochain.com or submit an application through the following registration link:
+Developers are requested to register through the official website of Heco: sardisnetwork.com or submit an application through the following registration link:
 
 Registration link in Chinese : https://jinshuju.net/f/pylg4Q
 
@@ -642,7 +642,7 @@ Dear Sardisusers, for your better experience, please choose RPC server according
 
 Global: https://http-mainnet-node.huobichain.com
 
-China mainland: https://http-mainnet.hecochain.com
+China mainland: https://http-mainnet.sardisnetwork.com
 
 ## SardisEco Alliance Announces First Exchange Membership List
 
@@ -680,7 +680,7 @@ Risk warning：
 
 3. SardisChain will announce authorization, promotion and other cooperation through the official social platform. Warmly remind developers and users to double check the information to avoid losses.
 
-4. Please identify the official website (hecochain.com ) to avoid private key phishing.
+4. Please identify the official website (sardisnetwork.com ) to avoid private key phishing.
 
 ## SardisChain " WE MAKE FUTURE "program is open now for registration 
  
@@ -716,13 +716,13 @@ Registration Form in Chinese: https://jinshuju.net/f/mkP0ZU
 
 Registration Form in English: https://forms.gle/rVYnxdoh7dAc2Cfw5
  
-For more details, please visit our website: www.hecochain.com 
+For more details, please visit our website: www.sardisnetwork.com 
  
 Risk Warning: 
 1. Sardisannounces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
 2. All users and developers can participate in the test environment and the Mainnet of Sardisfor free, and there is no charge. 
 3. All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud. 
-4. The official website is www.hecochain.com. Please be cautious with private key phishing. 
+4. The official website is www.sardisnetwork.com. Please be cautious with private key phishing. 
  
 HECO Chain 
 
