@@ -1,15 +1,15 @@
-# SardisChain
+# Sardis Network
 
-## Introduction to SardisChain
-HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardisis HT and it adopts the HPoS consensus mechanism. Sardiswill continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+## Introduction to Sardis Network
+Sardis Network (Sardis) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardisis HT and it adopts the HPoS consensus mechanism. Sardiswill continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
 
 ## Vision
-Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Sardisis committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Sardis's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Sardisis committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
-## Heco’s Performance
+## Sardis's Performance
 - TPS: 2000+
 - Average block interval: 3s
 
@@ -24,9 +24,9 @@ The endogenous token on the chain is HT; the transactions consume HT as gas fee.
 Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
-Assets such as BTC, ETH and stable coins can be mapped to Sardisby an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Heco. 
+Assets such as BTC, ETH and stable coins can be mapped to Sardisby an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
 
-Heco encourages developers to provide more decentralized cross-chain solution.  
+Sardis encourages developers to provide more decentralized cross-chain solution.  
 
 ## Meta Transaction Function
 The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Sardiswill cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
@@ -37,16 +37,16 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Four Stages of Heco
+## Four Stages of Sardis
 
 <table >
-    <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Heco Technical Route</th> </tr>
+    <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Sardis Technical Route</th> </tr>
     <tr style="background:rgba(0,0,0,0)" >
 <th > Stage </th><th> Features </th><th> Time </th><th> Sub Stage </th><th> Technical Points </th>
 </tr>
 <tr style="background:rgba(0,0,0,0)" >
 <tr style="background:rgba(0,0,0,0)" ><td rowspan=9 >Tinder</td><td rowspan=9 >
-The initial version of Heco.
+The initial version of Sardis.
 
 The system is stable and easy to use.
 
@@ -65,7 +65,7 @@ Users can participate in Dapp on Sardiswith a low threshold.</td><td rowspan=9 >
 <tr style="background:rgba(0,0,0,0)"><td rowspan=5 > Spark </td><td rowspan=5 > 
 The protocol is further optimized. 
 
-Heco will take the mission of connecting CeFi and DeFi, 
+Sardis will take the mission of connecting CeFi and DeFi, 
 
 allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2021 Q3 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Complete developer forum, blog, and FAQ information</td></tr>
@@ -93,12 +93,12 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 
-## Current Stage of Heco
-In December 2020, the SardisChain, Sardisofficially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+## Current Stage of Sardis
+In December 2020, the Sardis Network, Sardisofficially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
-In October 2021,HECO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
+In October 2021,Sardis has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
-## Support Plan of Heco
+## Support Plan of Sardis
 ### Financial Support
 - Sardiswill set up a special fund to invest, support and incentivize high-potential developers.
 - Sardiswill launch a variety of developer activities and competitions to discover and fund potential developers. 
@@ -109,7 +109,7 @@ In October 2021,HECO has now entered the "Spark" phase, which focuses on improvi
 - High-quality projects can participate in Sardisglobal roadshows for free.
 - Sardis ventures Sardisfund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
-### Participate in Test Environment of Heco
+### Participate in Test Environment of Sardis
 Official Website
 www.sardisnetwork.com
 
@@ -131,11 +131,11 @@ DevContacts@sardisnetwork.com
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/HECO_Chain
-- Telegram Channel: https://t.me/Huobiecochainofficial
-- Medium: https://medium.com/heco-chain
+- Twitter: https://twitter.com/sardisnetwork
+- Telegram Channel: https://t.me/sardisnetwork
+- Medium: https://medium.com/sardis-network
 - GitHub: https://github.com/stars-labs/
-- SardisExplorer: https://hecoinfo.com
+- SardisExplorer: https://sardisinfo.com
 - Documentation: https://docs.sardisnetwork.com/
 - Website: https://www.sardisnetwork.com/en-us/
   

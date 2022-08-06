@@ -5,7 +5,7 @@ npm i docsify-cli -g
 docsify serve ./
 ```
 
-Welcome to the SardisChain Docs Site。
+Welcome to the Sardis Network Docs Site。
 
 Resources list：
 

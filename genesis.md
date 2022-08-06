@@ -1,5 +1,5 @@
 # Genesis file
-Both the mainnet and testnet genesis information of `HECO` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
+Both the mainnet and testnet genesis information of `Sardis` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
 
 ## Glossary 
 - chainId The unique identification of the chain.
@@ -13,7 +13,7 @@ Both the mainnet and testnet genesis information of `HECO` chain have been hardc
     - 000000000000000000000000000000000000f001 // punish contract address
     - 000000000000000000000000000000000000f002 // proposal contract address
 
-  System contract repo: [heco-contracts](https://github.com/stars-labs/heco-contracts)
+  System contract repo: [sardis-contracts](https://github.com/stars-labs/sardis-contracts)
 
 ## mainnet
 ``` JSON

@@ -47,7 +47,7 @@ CacheDir = "ethash"
 CachesInMem = 2
 CachesOnDisk = 3
 CachesLockMmap = false
-DatasetDir = "/data/heco/data/.ethash"
+DatasetDir = "/data/sardis/data/.ethash"
 DatasetsInMem = 1
 DatasetsOnDisk = 2
 DatasetsLockMmap = false
@@ -67,7 +67,7 @@ GlobalQueue = 1024
 Lifetime = 10800000000000
 
 [Node]
-DataDir = "/data/heco/data"
+DataDir = "/data/sardis/data"
 InsecureUnlockAllowed = true
 NoUSB = true
 IPCPath = "geth.ipc"
@@ -116,10 +116,10 @@ SyncMode = "full"
 
 ```
 #!/usr/bin/env bash
-/data/heco/geth-linux-amd64 \
---config /data/heco/config.toml  \
---logpath /data/heco/logs \
---verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+/data/sardis/geth-linux-amd64 \
+--config /data/sardis/config.toml  \
+--logpath /data/sardis/logs \
+--verbosity 3  >> /data/sardis/logs/systemd_chain_console.out 2>&1
 ```
 
 if you need to use it as archive node, add：
@@ -133,15 +133,15 @@ so：
 
 ```
 #!/usr/bin/env bash
-/data/heco/geth-linux-amd64 \
---config /data/heco/config.toml  \
---logpath /data/heco/logs \
+/data/sardis/geth-linux-amd64 \
+--config /data/sardis/config.toml  \
+--logpath /data/sardis/logs \
 --syncmode full \
 --gcmode archive \
---verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+--verbosity 3  >> /data/sardis/logs/systemd_chain_console.out 2>&1
 ```
 
-If no any network flags were provided, the node will connect the heco-mainnet by default. If you want to connect to heco-testnet, add:
+If no any network flags were provided, the node will connect the sardis-mainnet by default. If you want to connect to sardis-testnet, add:
 
 ```
 --testnet
@@ -151,11 +151,11 @@ If no any network flags were provided, the node will connect the heco-mainnet by
 
 ```
 [Unit]
-Description=heco chain service
+Description=Sardis Network service
 
 [Service]
 Type=simple
-ExecStart=/bin/sh /data/heco/run.sh
+ExecStart=/bin/sh /data/sardis/run.sh
 
 Restart=on-failure
 RestartSec=5s

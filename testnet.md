@@ -12,7 +12,7 @@ wss://ws-testnet.sardisnetwork.com
 
 ## explorer
 ```
-https://testnet.hecoinfo.com/
+https://testnet.sardisinfo.com/
 ```
 
 ## faucet

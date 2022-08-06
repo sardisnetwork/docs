@@ -1,8 +1,8 @@
-- [About Heco](intro.md)
+- [About Sardis](intro.md)
 - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
 - Bridge
-    - [HECO-peg assets](bridge/hecopeg_assets.md)
+    - [SARDIS-peg assets](bridge/hecopeg_assets.md)
     - [User guide](bridge/user_guide.md)
 - [Asset-Peg Bridge](hecobridge.md)
 - [Asset-Peg Manual](bridge.md)

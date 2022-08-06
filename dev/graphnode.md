@@ -13,7 +13,7 @@ We recommend following the [Official documentation](https://thegraph.com/docs/) 
 
 For convenience reasons, we use the official [docker compose](https://github.com/graphprotocol/graph-node/tree/master/docker) for node, database, and IPFS deployment.
 
-Note that the value of the `ethereum` field in `docker-compose.yml` is replaced with `HECO`'s node connection information.
+Note that the value of the `ethereum` field in `docker-compose.yml` is replaced with `Sardis`'s node connection information.
 
 ``` YAML
 graph-node:

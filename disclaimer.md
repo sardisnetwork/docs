@@ -2,7 +2,7 @@
 
 Dear user (hereinafter referred as "you"):
 
-HECO Chain （Heco） (hereinafter referred to as "Heco" or "we") is a decentralized public chain. Developers around the world can deploy applications on Heco, and all users can read, send and trade on Heco. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
+Sardis Network （Sardis） (hereinafter referred to as "Sardis" or "we") is a decentralized public chain. Developers around the world can deploy applications on Sardis, and all users can read, send and trade on Sardis. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
 
 1. Whether you participate in or use the DAPP on Sardisthrough any trading platform, wallet, it is your personal free choice and we do not recommend it to you;
 

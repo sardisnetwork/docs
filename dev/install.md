@@ -3,14 +3,14 @@
 ## Download
 Download source code via `git`
 ```
-    git clone https://github.com/stars-labs/heco-chain.git
+    git clone https://github.com/stars-labs/sardisnetwork.git
 ```
 ## Install Golang
 Reference: [Go Download and install](https://golang.org/doc/install)
 
 ## Compile
 ```
-cd /path/to/hecochain
+cd /path/to/sardisnetwork
 make geth
 ```
 > If you want to use cross compile, like compiling on `Mac` for `Linux`, use `make geth-linux`, `make geth-linux-amd64`, etc.

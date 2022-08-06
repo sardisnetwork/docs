@@ -1,5 +1,5 @@
 # Consensus
-`Heco` adopts `HPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
+`Sardis` adopts `HPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
 
 HPoS is a combination of PoA and Pos. To become a validator, you need to submit a proposal first and wait for other active validators to vote on it, after more than half of them pass, you will be eligible to become a validator. Any address can stake to an address that qualifies to become a validator, and after the validator's staking volume ranks in the top 21, it will become an active validator in the next epoch.
 
@@ -12,10 +12,10 @@ The difficulty value of a block is 2 when the block is generated normally and 1 
 ## Glossary 
 - validator. Responsible for packaging out blocks for on-chain transactions.
 - active validator. The current set of validators responsible for packing out blocks, with a maximum of 21.
-- epoch. Time interval in blocks, currently 1epoch = 200block on `Heco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
+- epoch. Time interval in blocks, currently 1epoch = 200block on `Sardis`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
 ## System contract
-[heco-contracts](https://github.com/stars-labs/heco-contracts)
+[sardis-contracts](https://github.com/stars-labs/sardis-contracts)
 
 The management of the current validators are all done by the system contracts.
 - Proposal  Responsible for managing access to validators and managing validator proposals and votes.

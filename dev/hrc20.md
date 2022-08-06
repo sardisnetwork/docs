@@ -1,6 +1,6 @@
 # HRC20 Token Standard
 
-HECO is fully compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20) standard，interfaces and events as follows：
+SARDIS is fully compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20) standard，interfaces and events as follows：
 
 ```
 // ----------------------------------------------------------------------------

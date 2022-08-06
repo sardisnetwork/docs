@@ -1,21 +1,21 @@
 # Summary
 
-Users can map ETH, BTC, stable coins and other assets to Sardisthrough the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Heco.
+Users can map ETH, BTC, stable coins and other assets to Sardisthrough the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Sardis.
 
-Heco encourages community developers to provide more decentralized cross-chain solutions.
+Sardis encourages community developers to provide more decentralized cross-chain solutions.
 
 This document describes the option for project parties to map Tokens from the source chain to Sardison their own.
 
-> [heco-brige ref here](./hecobridge.md)
+> [Sardis-brige ref here](./hecobridge.md)
 
-The project owner **self** maintains the total balance of Token on the multi-chain including Heco, and endorses the credibility of Token.
+The project owner **self** maintains the total balance of Token on the multi-chain including Sardis, and endorses the credibility of Token.
 
 The main processes include：
 
 ```
 1）Initial Preparation
-2）Source Chain -> SardisChain
-3）Heco Chain -> Source Chain
+2）Source Chain -> Sardis Network
+3）Sardis Network -> Source Chain
 ```
 
 ## Glossary 
@@ -26,14 +26,14 @@ Src_Token: Token on the source chain, possibly a contract, or a native Token
 
 Locked address or contract: the address used to lock the Token
 
-Heco_Token: Token on Heco's chain
+Sardis_Token: Token on Sardis's chain
 ## Initial Preparation
 
 1) Deploy the lock address or contract on the source chain `Src_Lock_Addr`
 
-2) Deploy Token on Heco: `Heco_Token`
+2) Deploy Token on Sardis: `Sardis_Token`
 
-3) Deploy a lock address or contract on Sardis`Heco_Lock_Addr`
+3) Deploy a lock address or contract on Sardis`Sardis_Lock_Addr`
 
 If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
 
@@ -43,21 +43,21 @@ Translated with www.DeepL.com/Translator (free version)
 
 > In order to maintain credibility, the project needs to publicize the above information to the community and invite the community to supervise it. And to monitor the total amount of coins on both chains.
 
-## Source Chain->Heco Chain
+## Source Chain->Sardis Network
 
 1) Source chain locking `Src_Token`
 
 Transfer a certain amount of `Src_Token` to `Src_Lock_Addr` for locking
 
-2) Release `Heco_Token` on the Sardischain
+2) Release `Sardis_Token` on the Sardis Network
 
-Execute mint operation to give `Heco_Lock_Addr` the corresponding amount of `Heco_Token`
+Execute mint operation to give `Sardis_Lock_Addr` the corresponding amount of `Sardis_Token`
 
-## Sardischain->Source chain
+## Sardis Network->Source chain
 
-1) Sardischain lock `Heco_Token`
+1) Sardis Network lock `Sardis_Token`
 
-Execute burn operation, destroy `Heco_Token`
+Execute burn operation, destroy `Sardis_Token`
 
 2) Release `Src_Token` on the source chain
 

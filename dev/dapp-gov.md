@@ -4,7 +4,7 @@
 
 https://snapshot.page/#/
 
-dapp developer: create space with metamask, choose Sardischain;
+dapp developer: create space with metamask, choose Sardis Network;
 
 user: create proposal in space; 
 
