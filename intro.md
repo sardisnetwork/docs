@@ -1,7 +1,7 @@
 # Sardis Network
 
 ## Introduction to Sardis Network
-Sardis Network (Sardis) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardisis HT and it adopts the HPoS consensus mechanism. Sardiswill continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+Sardis Network (Sardis) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardis's SRDX and it adopts the HPoS consensus mechanism. Sardiswill continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -19,9 +19,9 @@ HPoS consensus mechanism: it has the characteristics of low transaction cost, lo
 The maximum number of validators supported is 21.
 
 ## Economic Model 
-The endogenous token on the chain is HT; the transactions consume HT as gas fee.
+The endogenous token on the chain is SRDX; the transactions consume SRDX as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge SRDX to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Sardisby an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
@@ -102,7 +102,7 @@ In October 2021,Sardis has now entered the "Spark" phase, which focuses on impro
 ### Financial Support
 - Sardiswill set up a special fund to invest, support and incentivize high-potential developers.
 - Sardiswill launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on SardisDapp, the Sardismeta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
+- In order to reduce the cost of users on SardisDapp, the Sardismeta transaction function will reduce the gas fee of users holding SRDX in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Sardishave not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
@@ -121,10 +121,10 @@ wss://ws-testnet.sardisnetwork.com
 https://contract-testnet.sardisnetwork.com/
 
 Blockchain Explorer
-https://scan-testnet.sardisnetwork.com
+https://contract-mainnet.sardisnetwork.com/
 
 Test Coin Faucet
-https://scan-testnet.sardisnetwork.com/faucet
+https://faucet.sardisnetwork.com/
 
 Technical Support Email
 DevContacts@sardisnetwork.com
@@ -135,7 +135,7 @@ DevContacts@sardisnetwork.com
 - Telegram Channel: https://t.me/sardisnetwork
 - Medium: https://medium.com/sardis-network
 - GitHub: https://github.com/stars-labs/
-- SardisExplorer: https://sardisinfo.com
+- SardisExplorer: https://contract-mainnet.sardisnetwork.com/
 - Documentation: https://docs.sardisnetwork.com/
 - Website: https://www.sardisnetwork.com/en-us/
   

@@ -13,7 +13,7 @@ wss://ws-mainnet.sardisnetwork.com
 
 ## explorer
 ```
-https://sardisinfo.com
+https://contract-mainnet.sardisnetwork.com/
 ```
 
 # P2P Nodes

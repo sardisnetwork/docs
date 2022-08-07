@@ -12,11 +12,11 @@ wss://ws-testnet.sardisnetwork.com
 
 ## explorer
 ```
-https://testnet.sardisinfo.com/
+https://testnet-explorer.sardischain.com/
 ```
 
 ## faucet
 
 ```
-https://scan-testnet.sardisnetwork.com/faucet
+https://faucet.sardisnetwork.com/
 ```

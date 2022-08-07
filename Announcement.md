@@ -72,7 +72,7 @@ Step 3: Use the NFT in the Game
 [ Boss Rally](https://dragongame.co/)
 
 Deposit channel:
-Use [iSwap](https://www.iswap.com/en-us/) to cross-chain to Sardiscan directly exchange other currencies into HT in seconds, and you can also receive HT airdrop
+Use [iSwap](https://www.iswap.com/en-us/) to cross-chain to Sardiscan directly exchange other currencies into SRDX in seconds, and you can also receive SRDX airdrop
 !
 
 Instructions on Winning:
@@ -141,7 +141,7 @@ Twitter: https://twitter.com/sardisnetwork
 
 Telegram: https://t.me/sardisnetwork
 
-Sardis Explorer: https://sardisinfo.com
+Sardis Explorer: https://contract-mainnet.sardisnetwork.com/
 
 Sardis Network：https://www.sardisnetwork.com
  
@@ -261,12 +261,12 @@ Both the applications and assets in the Sardisecology are increasingly abundant.
 
 | LP | APY |Participation Links| 
 | --- | ----------- | ----------- |
-| MAKI-HT |300% |https://channels.finance/|
+| MAKI-SRDX |300% |https://channels.finance/|
 | MAKI-HUSD| 500%|https://app.makiswap.com/farms|
 | MAKI- ETH|400%|https://app.makiswap.com/farms|
 
 
-2. Gain 0.01 HT airdrop by transferring cross-chain assets to SARDIS
+2. Gain 0.01 SRDX airdrop by transferring cross-chain assets to SARDIS
 Participation link: https://www.iswap.com/zh-cn/
 
 Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
@@ -292,7 +292,7 @@ How to participate:Click on the entrance to participate in mining.
 | DAI-USDC-USDT-HUSD |20%|https://belt.fi/Sardis| Provide HaykerDao LP and participate in liquidity mining|
 
 
-2. Gain 0.01 HT airdrop by transferring cross-chain assets to Sardis
+2. Gain 0.01 SRDX airdrop by transferring cross-chain assets to Sardis
 Participation link: https://www.iswap.com/zh-cn/
 
 Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
@@ -351,8 +351,8 @@ SARDIS would like to remind you that the upcoming Ethereum London Hard Fork is s
 From 11: 00 to 12: 10 (UTC+0) on August 5, 2021, it is recommended that users suspend the conversion of ERC20 assets to HRC20 assets or vice versa through any platforms and wallets.
 
 2. Voting Function of Ecological Nodes
-If you plan to vote during the Ethereum London Hard Fork, it is recommended that you convert HT under ERC20 protocol into the HRC20 protocol before 11:00 (UTC+0) on August 5, 2021, so as to secure your voting rights within the planned time.
-If you plan to convert HT under HRC20 protocol into ERC20 protocol, please do it before or after 11:00-12:10 (UTC+0) on August 5, 2021.
+If you plan to vote during the Ethereum London Hard Fork, it is recommended that you convert SRDX under ERC20 protocol into the HRC20 protocol before 11:00 (UTC+0) on August 5, 2021, so as to secure your voting rights within the planned time.
+If you plan to convert SRDX under HRC20 protocol into ERC20 protocol, please do it before or after 11:00-12:10 (UTC+0) on August 5, 2021.
 
 3. Cross-Chain Platform
 From 11:10 to 12:10 (UTC+0) on August 5, 2021, cross-chain platforms in Sardisshould close the bidirectional cross-chain function between ETH and SARDIS, and between EVM public chain and SARDIS.
@@ -666,7 +666,7 @@ Dear customer,
 
 Huobi ECO Chain, also known as SARDIS, is officially launched on 21st Dec. 2020，with characteristics such as high performance, low gas fee, and better cross-chain user experience, etc.
 
-The Meta-transaction function adopted by Sardisenables developers with better on-chain operations, of which the essence is to cover the gas fee payment, and the purpose is to reduce the cost of users using Sardisservices. In other words, Sardisintends to subsidize users by paying a part of their gas fee in accordance with their HT holding volume. In addition, sepecial gas fee subsidy could be given for specific DApps.
+The Meta-transaction function adopted by Sardisenables developers with better on-chain operations, of which the essence is to cover the gas fee payment, and the purpose is to reduce the cost of users using Sardisservices. In other words, Sardisintends to subsidize users by paying a part of their gas fee in accordance with their SRDX holding volume. In addition, sepecial gas fee subsidy could be given for specific DApps.
 
 ![avatar](../images/grade-en.png)
 
