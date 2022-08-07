@@ -6,7 +6,7 @@
 ```
 ## rpc
 ```
-https://http-testnet.sardisnetwork.com
+https://contract-testnet.sardisnetwork.com/
 wss://ws-testnet.sardisnetwork.com
 ```
 

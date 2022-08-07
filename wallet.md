@@ -24,7 +24,7 @@ scan: https://sardisinfo.com
 
 ```
 chainid: 256
-rpc: https://http-testnet.sardisnetwork.com
+rpc: https://contract-testnet.sardisnetwork.com
 scan: https://testnet.sardisinfo.com
 ```
 

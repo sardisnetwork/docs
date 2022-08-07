@@ -79,7 +79,7 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.sardisnetwork.com'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://contract-testnet.sardisnetwork.com'),
       network_id: 256
     },
     mainnet: {

@@ -118,7 +118,7 @@ chainid 256
 
 PRC
 wss://ws-testnet.sardisnetwork.com 
-https://http-testnet.sardisnetwork.com
+https://contract-testnet.sardisnetwork.com/
 
 Blockchain Explorer
 https://scan-testnet.sardisnetwork.com
