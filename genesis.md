@@ -19,7 +19,7 @@ Both the mainnet and testnet genesis information of `Sardis` chain have been har
 ``` JSON
 {
   "config": {
-    "chainId": 128,
+    "chainId": 51712,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -32,7 +32,7 @@ Both the mainnet and testnet genesis information of `Sardis` chain have been har
     "muirGlacierBlock": 0,
     "congress": {
       "period": 3,
-      "epoch": 200
+      "epoch": 100
     }
   },
   "nonce": "0x0",
@@ -66,7 +66,7 @@ Both the mainnet and testnet genesis information of `Sardis` chain have been har
 ``` JSON
 {
   "config": {
-    "chainId": 256,
+    "chainId": 11612,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -79,7 +79,7 @@ Both the mainnet and testnet genesis information of `Sardis` chain have been har
     "muirGlacierBlock": 0,
     "congress": {
       "period": 3,
-      "epoch": 200
+      "epoch": 100
     }
   },
   "nonce": "0x0",

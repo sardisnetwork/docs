@@ -22,7 +22,7 @@ Or you can also looking to the `UTC-**`file under the `data/keystore` path to fi
 ```JSON
 {
   "config": {
-    "chainId": 123, 
+    "chainId": 51712, 
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",

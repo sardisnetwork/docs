@@ -13,7 +13,7 @@ add custom network：
 download url：https://metamask.io/
 
 ```
-chainid: 128
+chainid: 51712
 rpc: https://http-mainnet.sardisnetwork.com
 scan: https://sardisinfo.com
 ```
@@ -23,7 +23,7 @@ scan: https://sardisinfo.com
 ## testnet
 
 ```
-chainid: 256
+chainid: 11612
 rpc: https://contract-testnet.sardisnetwork.com
 scan: https://testnet.sardisinfo.com
 ```

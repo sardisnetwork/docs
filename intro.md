@@ -114,7 +114,7 @@ Official Website
 www.sardisnetwork.com
 
 Public Testnet
-chainid 256
+chainid 11612
 
 PRC
 wss://ws-testnet.sardisnetwork.com 
