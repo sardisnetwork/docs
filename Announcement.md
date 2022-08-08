@@ -24,9 +24,9 @@ There will be a migration and upgrade of LUNA when the block height reaches `779
 Huobi Global supports this migration and upgrade, which is expected to subsequently airdrop newly minted LUNA. A snapshot of user balances of LUNA in their Sardis Global accounts will be taken at block `7790000` for subsequent airdrops.
 
 
-# Notice on the use of SardisRPC
+# Notice on the use of Sardis RPC
 
-Recently, Sardisreceived the feedback from some developers regarding the failure of RPC. We checked the issue and found the problem which derive from the third-party RPCs failure. Based on the situation, Sardisrecommends developer to switch to official RPC instead to avoid potential developing issue.The offical RPC sites are as follows:
+Recently, Sardis received the feedback from some developers regarding the failure of RPC. We checked the issue and found the problem which derive from the third-party RPCs failure. Based on the situation, Sardis recommends developer to switch to official RPC instead to avoid potential developing issue.The offical RPC sites are as follows:
 ```
 https://http-mainnet.sardisnetwork.com
 ```
@@ -39,7 +39,7 @@ We apologize for the inconvenience caused to you.
 #  Lucky SardisPhase III Live Now! Win GameFi NFTs!
 
 Dear Valued Users,
-Our Lucky Sardispromotion is about to host its third round. Sardis Network is partnering with multiple gaming platforms to offer numerous NFT prizes, valued at nearly 250,000 USDT.
+Our Lucky Sardis promotion is about to host its third round. Sardis Network is partnering with multiple gaming platforms to offer numerous NFT prizes, valued at nearly 250,000 USDT.
  
 Event Period: 9:00, Otc 18 - 16:00, Oct 24, 2021 (UTC)
  
@@ -135,7 +135,7 @@ Twitter：https://twitter.com/HuobiGlobal
  
 2. What's Sardis？
 
-[Sardis Network](https://www.sardisnetwork.com/en-us/assets/) is an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (Dapps), smart contracts, and digital assets. Sardishas recorded approximately 12.9 million total addresses with 474million transactions made on the platform.
+[Sardis Network](https://www.sardisnetwork.com/en-us/assets/) is an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (Dapps), smart contracts, and digital assets. Sardis has recorded approximately 12.9 million total addresses with 474million transactions made on the platform.
 
 Twitter: https://twitter.com/sardisnetwork
 
@@ -166,11 +166,11 @@ October 18, 2021
  
 
 
-# SardisDAO voted through the proposal of restricting visits and information queries on this official website in certain regions.
+# Sardis DAO voted through the proposal of restricting visits and information queries on this official website in certain regions.
 
 Dear Developers: 
 
-As a decentralized blockchain network, Sardis Network has been open to global developers since its launch. At the same time, Sardiscommunity has been actively paying attention to and complying with the regulatory requirements of various regions. In order to provide users with more compliant and consistent services, we would like to have the following adjustments:
+As a decentralized blockchain network, Sardis Network has been open to global developers since its launch. At the same time, Sardis community has been actively paying attention to and complying with the regulatory requirements of various regions. In order to provide users with more compliant and consistent services, we would like to have the following adjustments:
 
 1.Anyone located in [USA, Canada, Singapore, Hong Kong, Japan, Cuba, Iran, Korea, Sudan, Syria, Venezuela, Crimea, Chinese mainland, Taiwan Province, Israel, Iraq, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, Sevastopol, UK] is prohibited from using information inquiry services provided by this website (https://www.sardisnetwork.com); 
 
@@ -190,7 +190,7 @@ September 30th, 2021
 
 Dear users
 
-Both the applications and assets in the Sardisecology are increasingly abundant. Sardiscommunities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income through deposit and borrow, with APY up to 30%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
+Both the applications and assets in the Sardisecology are increasingly abundant. Sardis communities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income through deposit and borrow, with APY up to 30%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
 
 Earn from both deposit and borrow.
 
@@ -216,7 +216,7 @@ September 23, 2021
 # Amazing Mining Thursday on SARDIS
 Dear users:
 
-Both the applications and assets in the Sardisecology are increasingly abundant. Sardiscommunities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income by staking FIL , with APY up to 40%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
+Both the applications and assets in the Sardisecology are increasingly abundant. Sardis communities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income by staking FIL , with APY up to 40%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
 
 Period：7:00am,Sep.16-7:00am,Sep.17(UTC)
 
@@ -254,7 +254,7 @@ September 16, 2021
 
 Dear users:
 
-Both the applications and assets in the Sardisecology are increasingly abundant. Sardiscommunities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income by staking liquidity Pool (LP)  , with APY up to 500%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
+Both the applications and assets in the Sardisecology are increasingly abundant. Sardis communities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on SARDIS". During the event, users can get higher income by staking liquidity Pool (LP)  , with APY up to 500%. Click on the link to join the mining during the " Amazing Mining Thursday on SARDIS":
 
 1. Stake Liquidity Pool (LP) for MAKI Rewards.
 
@@ -279,7 +279,7 @@ September 9, 2021
 
 Dear users:
 
-Both the applications and assets in the Sardisecology are increasingly abundant. Sardiscommunities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on Sardis". During the event, users can get higher income by providing LP composed of HaykerDao liquidity or pledged assets, with APY up to 620%. Time of the event: 7:00, September 2- 16:00, September 9, click on the link to join the mining during the " Amazing Mining Thursday on Sardis":
+Both the applications and assets in the Sardisecology are increasingly abundant. Sardis communities and Sardis Wallet have jointly launched the " Amazing Mining Thursday on Sardis". During the event, users can get higher income by providing LP composed of HaykerDao liquidity or pledged assets, with APY up to 620%. Time of the event: 7:00, September 2- 16:00, September 9, click on the link to join the mining during the " Amazing Mining Thursday on Sardis":
 How to participate:Click on the entrance to participate in mining.
 
 1. Liquidity / Mining by pledging LP
@@ -304,7 +304,7 @@ Sardis Team
 
 ## TUSD stable coin gold shovel mining is coming (NO.1)!
 Dear users:
-TUSD is stationed in SARDIS, the first round of ecological linkage is opened. From August 4 to August 18, Sardiscommunity, TUSD community, Sardis Wallet and other 7wallets jointly launched TUSD stable coin gold shovel mining activities, users can first choose to pledge TUSD single currency or group liquidity mining transaction pair, participate in the "TUSD gold shovel" limited-time mining activities.
+TUSD is stationed in SARDIS, the first round of ecological linkage is opened. From August 4 to August 18, Sardis community, TUSD community, Sardis Wallet and other 7wallets jointly launched TUSD stable coin gold shovel mining activities, users can first choose to pledge TUSD single currency or group liquidity mining transaction pair, participate in the "TUSD gold shovel" limited-time mining activities.
 
 How to participate:Click on the entrance to participate in mining.
 
@@ -382,7 +382,7 @@ In order to better serve developers and on-chain programs, the incentive program
 
 5.Analysis stage: Projects will get blockchain industry research reports and safety warning information from the Sardisteam to ensure the smooth progress of projects.
 
-At the same time, Sardiswill hold a series of activities to further the development of developers and projects.
+At the same time, Sardis will hold a series of activities to further the development of developers and projects.
 
 
 Please apply and contact us through the following channels
@@ -521,7 +521,7 @@ Sardis team
 
 SARDIS is a young, dynamic and full of infinite possibilities world. Since its launch, we have welcomed nearly 100 development teams worldwide to start together“Era of Making" and jointly build Sardisecosystem. Sardishopes to provide more efficient support to global developers and reward eco-builders and contributors. 
 
-SARDIS will launch the second phase of the“We Make Future". Developers can deploy and run DApps on SARDIS. Sardiswill assess Top10 based on the registered project operations and award the title of "Golden Creator", as well as provide rewards.
+SARDIS will launch the second phase of the“We Make Future". Developers can deploy and run DApps on SARDIS. Sardis will assess Top10 based on the registered project operations and award the title of "Golden Creator", as well as provide rewards.
 
 Registration time：
 00:00 March 3th - 24:00 March 10th, 2021
@@ -566,11 +566,11 @@ March 2st,2021
 
 It has come to our knowledge that there have been projects created with malicious purposes on SARDIS. And we will take a series of actions to guarantee a safe and healthy developing environment: in-depth security audits on various eco projects, opening source codes, adding time locks and deploying governance contracts.
 
-SARDIS wants to work with the community with a sincere and honest mindset and using community governance for restraint on bad behaviors. We want to help projects gain more users' trust and participation. For quality projects, Sardiswill also join hands with partners and continue providing them with strong support. At the same time, to promote the healthy development of the Sardisecosystem, Sardisand its partners will ONLY support projects that complete security audits, open source, and decentralized. Sardiswill boycott the projects that are not. 
+SARDIS wants to work with the community with a sincere and honest mindset and using community governance for restraint on bad behaviors. We want to help projects gain more users' trust and participation. For quality projects, Sardis will also join hands with partners and continue providing them with strong support. At the same time, to promote the healthy development of the Sardisecosystem, Sardis and its partners will ONLY support projects that complete security audits, open source, and decentralized. Sardis will boycott the projects that are not. 
 
 SARDIS recommends frequent community participation in DeFi rationally and for users to carefully understand and study how the project works, the team's background, and the code before participation. Do not participate in unaudited, non-open source projects.
 
-In order to promote the development of quality projects, Sardishas joined hands with well-known auditing organizations to provide green audit channels for Sardiseco-projects and take practical measures to help the healthy development of Sardiseco-projects.
+In order to promote the development of quality projects, Sardis has joined hands with well-known auditing organizations to provide green audit channels for Sardiseco-projects and take practical measures to help the healthy development of Sardiseco-projects.
 
 
 Sardis Team
@@ -579,7 +579,7 @@ Sardis Team
 
 Dear users，
 
-Huobi Eco Chain Sardisand MXC platform have deepen their cooperation. The content and methods of cooperation are as follows:
+Huobi Eco Chain Sardis and MXC platform have deepen their cooperation. The content and methods of cooperation are as follows:
 
 1. A native token of MXC platform, MX will be directly connected to Sardisas a a cross-chain asset through MXC and Sardis Global platforms deposit and withdrawal functions. MX will be used as a DeFi asset for lending, liquidity mining, DEX transactions and other operations in SARDIS.
 
@@ -599,7 +599,7 @@ Sardis team
 
 Dear Users, 
 
-Chinese New Year is coming, and Sardisjointly launched New Year 1.5 million campaign "SARDIS Airdrop Week" with 12 top projects on Sardis Network. Thank you for your strong support for Sardisand SardisEcosystem.
+Chinese New Year is coming, and Sardisjointly launched New Year 1.5 million campaign "SARDIS Airdrop Week" with 12 top projects on Sardis Network. Thank you for your strong support for Sardis and SardisEcosystem.
 
 Activity time:04-09/02/2021
 
@@ -632,7 +632,7 @@ Partner media:
 Activity notice:
 1. You can participate in 12 airdrops at the same time.
 2. Airdrop rewards will be distributed by the project after the address is approved. It takes time, please wait.
-3. Please strictly follow the airdrop rules. If the user commits any illegal operation that affects the normal operation of the activity, Sardiswill immediately disqualify this user from participating and he will not be able to receive any airdrop.
+3. Please strictly follow the airdrop rules. If the user commits any illegal operation that affects the normal operation of the activity, Sardis will immediately disqualify this user from participating and he will not be able to receive any airdrop.
 4. The final interpretation right of a single airdrop belongs to the relevant project. 
 5. Sardisis this activity organizer, but does not provide with any investment advice. Users are requested to participate with caution.
 
@@ -719,8 +719,8 @@ Registration Form in English: https://forms.gle/rVYnxdoh7dAc2Cfw5
 For more details, please visit our website: www.sardisnetwork.com 
  
 Risk Warning: 
-1. Sardisannounces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
-2. All users and developers can participate in the test environment and the Mainnet of Sardisfor free, and there is no charge. 
+1. Sardis announces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
+2. All users and developers can participate in the test environment and the Mainnet of Sardis for free, and there is no charge. 
 3. All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud. 
 4. The official website is www.sardisnetwork.com. Please be cautious with private key phishing. 
  

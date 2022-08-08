@@ -1,12 +1,12 @@
 # Summary
 
-Users can map ETH, BTC, stable coins and other assets to Sardisthrough the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Sardis.
+Users can map ETH, BTC, stable coins and other assets to Sardis through the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Sardis.
 
 Sardis encourages community developers to provide more decentralized cross-chain solutions.
 
 This document describes the option for project parties to map Tokens from the source chain to Sardison their own.
 
-> [Sardis-brige ref here](./hecobridge.md)
+> [Sardis-bridge ref here](./hecobridge.md)
 
 The project owner **self** maintains the total balance of Token on the multi-chain including Sardis, and endorses the credibility of Token.
 

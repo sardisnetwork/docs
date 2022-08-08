@@ -1,5 +1,5 @@
 # Introduction
-This document introduce the basic info of Sardisbridge:
+This document introduce the basic info of Sardis bridge:
 
 Contract Address：
 

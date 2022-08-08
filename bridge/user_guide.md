@@ -5,7 +5,7 @@ Beta版將暫時僅對白名單用戶開放，用戶可通過https://www.sardisn
 Sardis Network Team
 2021/12/8
 
-# Stars Bridge Beta version has been launched, supports Sardisand Ethereum cross-chain
+# Stars Bridge Beta version has been launched, supports Sardis and Ethereum cross-chain
 Sardis Network has launched the Stars Bridge Beta version (Stars Bridge) on December 8, 2021, supporting multiple ERC20 and HRC20 token exchanges. Committed to providing users with low-cost, high-acceptance, multi-token, safe and fast cross-chain services.
 The Beta version will be temporarily only open to whitelisted users. Users can search for StarsBridge through https://www.sardisnetwork.com/starsbridge or Sardis Wallet for more product information.
 

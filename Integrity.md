@@ -8,4 +8,4 @@ Anyone submitting a complaint or question is encouraged to provide his or her na
 
 This reporting email address is highly confidential and reports directly to the top management. For valid reports, Sardis Group will pay high attention to them and protect the privacy of the whistleblower. For those reports involving benefit transfer, Sardis Group will give direct rewards to the whistleblowers, and the reward limit is 10% of the recovered loss amount.
 
-Attention：all information about cooperation, investment and support policy of Sardis Network will be released through the official website announcement and other official channels. Please stay vigilant and do not listen to or believe false propaganda. At the same time, Sardis Network will reserve the right to pursue related false propaganda.
+Attention：All the information about cooperation, investment and support policy of Sardis Network will be released through the official website announcement and other official channels. Please stay vigilant and do not listen to or believe false propaganda. At the same time, Sardis Network will reserve the right to pursue related false propaganda.

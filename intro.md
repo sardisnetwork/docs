@@ -1,7 +1,7 @@
 # Sardis Network
 
 ## Introduction to Sardis Network
-Sardis Network (Sardis) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardis's SRDX and it adopts the HPoS consensus mechanism. Sardiswill continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+Sardis Network (Sardis) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Sardis's SRDX and it adopts the HPoS consensus mechanism. Sardis will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -24,12 +24,12 @@ The endogenous token on the chain is SRDX; the transactions consume SRDX as gas 
 Miners pledge SRDX to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
-Assets such as BTC, ETH and stable coins can be mapped to Sardisby an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
+Assets such as BTC, ETH and stable coins can be mapped to Sardis by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
 
 Sardis encourages developers to provide more decentralized cross-chain solution.  
 
 ## Meta Transaction Function
-The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Sardiswill cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
+The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Sardis will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
 
 ## SardisTechnical Characteristics
 - An open and decentralized network to maintain the security of the network and assets.
@@ -52,7 +52,7 @@ The system is stable and easy to use.
 
 Developers can develop and promote Dapp at low cost.
 
-Users can participate in Dapp on Sardiswith a low threshold.</td><td rowspan=9 >2020 Q4-2021 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
+Users can participate in Dapp on Sardis with a low threshold.</td><td rowspan=9 >2020 Q4-2021 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
 <tr style="background:rgba(0,0,0,0)" ><td>Lower transaction costs</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Meta transaction subsidy</td></tr>
 <tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >Node Election</td><td>More decentralized and safer</td></tr>
@@ -94,15 +94,15 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 ## Current Stage of Sardis
-In December 2020, the Sardis Network, Sardisofficially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+In December 2020, the Sardis Network, Sardis officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 In October 2021,Sardis has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
 ## Support Plan of Sardis
 ### Financial Support
-- Sardiswill set up a special fund to invest, support and incentivize high-potential developers.
-- Sardiswill launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on SardisDapp, the Sardismeta transaction function will reduce the gas fee of users holding SRDX in a step-wise manner.
+- Sardis will set up a special fund to invest, support and incentivize high-potential developers.
+- Sardis will launch a variety of developer activities and competitions to discover and fund potential developers. 
+- In order to reduce the cost of users on Sardis dApp, the Sardis meta transaction function will reduce the gas fee of users holding SRDX in a step-wise manner.
 
 ### Resource Support
 - Projects or developers that have received investment and support from Sardishave not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
@@ -141,7 +141,7 @@ DevContacts@sardisnetwork.com
   
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of Sardisfor free, and there is no charging scenario.
+- All users and developers can participate in the current test environment and subsequent stages of Sardis for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- Sardisannounces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
+- Sardis announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
 - Do not misread the official website (sardisnetwork.com), and be cautious with private key phishing.
