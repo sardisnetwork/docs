@@ -6,7 +6,7 @@ The validators are a unique part of the Dithereum ecosystem. They are responsibl
 
 ## Validator Setup Instructions
 ​
-Step 1: Setup environment and install Dithereum. [Please follow this section](install.md).
+Step 1: Setup environment and install Dithereum. [Please follow this section](dev/install.md).
 
 Step 2: Deploy the validator node. [Please follow this section](dev/deploy.md).
 
