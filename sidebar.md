@@ -9,6 +9,7 @@
 - [Consensus](consensus.md)
 - [Meta Transaction](dev/meta_tx.md)
 - [Genesis](genesis.md)
+- [Become Validator](Validator.md)
 - Developers
     - [Compile and Run](dev/install.md)
     - [Deployment](dev/deploy.md)
