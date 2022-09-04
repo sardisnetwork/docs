@@ -1,36 +1,47 @@
 # Summary
 
-Sardis support metamask、huobi wallet app、TokenPocket etc.
+Sardis support metamask、TokenPocket etc.
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
 # metamask
 
-add custom network：
-
-## mainnet
-
 download url：https://metamask.io/
 
-```
-chainid: 51712
-rpc: https://http-mainnet.sardisnetwork.com
-scan: https://sardisinfo.com
-```
+add custom network：
 
-![metamask](../images/metamask2_en.png)
+## SARDIS Contract Mainnet
 
-## testnet
 
 ```
-chainid: 11612
-rpc: https://contract-testnet.sardisnetwork.com
-scan: https://testnet.sardisinfo.com
+Chain ID: 51712
+RPC URL: https://mainnet-rpc.sardisnetwork.com
+Block Explorer: https://contract-mainnet.sardisnetwork.com
 ```
 
-# Sardis wallet app
+![metamask](../images/meta.png)
 
-https://www.huobiwallet.com/
+
+## SARDIS Payment Mainnet
+
+
+```
+Chain ID: 11512
+RPC URL: https://payment-rpc.sardisnetwork.com
+Block Explorer: https://payment-mainnet.sardisnetwork.com
+```
+
+![metamask](../images/meta.png)
+
+## Testnet
+
+```
+Chain ID: 11612
+RPC URL: https://testnet-rpc.sardisnetwork.com
+Block Explorer: https://contract-testnet.sardisnetwork.com
+```
+
+
 
 
 # cointtype for Sardis
