@@ -2,17 +2,16 @@
 
 ## chainid
 ```
-256
+11612
 ```
 ## rpc
 ```
-https://contract-testnet.sardisnetwork.com/
-wss://ws-testnet.sardisnetwork.com
+https://testnet-rpc.sardisnetwork.com
 ```
 
 ## explorer
 ```
-https://testnet-explorer.sardischain.com/
+https://contract-testnet.sardisnetwork.com
 ```
 
 ## faucet
