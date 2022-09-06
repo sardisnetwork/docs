@@ -1,6 +1,6 @@
 # Summary
 
-Sardis support metamask、TokenPocket etc.
+Sardis supports metamask、TokenPocket etc.
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -19,7 +19,7 @@ RPC URL: https://mainnet-rpc.sardisnetwork.com
 Block Explorer: https://contract-mainnet.sardisnetwork.com
 ```
 
-![metamask](../images/meta.png)
+![metamask]
 
 
 ## SARDIS Payment Mainnet
@@ -31,7 +31,7 @@ RPC URL: https://payment-rpc.sardisnetwork.com
 Block Explorer: https://payment-mainnet.sardisnetwork.com
 ```
 
-![metamask](../images/meta.png)
+![metamask]
 
 ## Testnet
 
