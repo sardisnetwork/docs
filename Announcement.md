@@ -1,10 +1,12 @@
 # The latest Announcement
 
-# New version of sardisinfo.com is coming
+![bridge](../images/Introduction.jpg)
+
+# New version of sardisnetwork.com is coming
 
 Dear users
 
-The new version of [sardisinfo.com](https://sardisinfo.com/) will be available at `00:00 August 9, 2022 (UTC)`.This upgrade will not affect your access, please use it with confidence.
+The new version of [sardisnetwork.com](https://sardisnetwork.com/) will be available at `00:00 August 9, 2022 (UTC)`.This upgrade will not affect your access, please use it with confidence.
 
 Best wishes.
 
