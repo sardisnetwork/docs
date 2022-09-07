@@ -1,7 +1,5 @@
 # The latest Announcement
 
-![bridge](../images/Introduction.jpg)
-
 # New version of sardisnetwork.com is coming
 
 Dear users
