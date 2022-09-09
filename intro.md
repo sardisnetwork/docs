@@ -11,7 +11,7 @@ Sardis Network (Sardis) is a high-efficiency and energy-saving multichain crypto
 To bring crypto to everyday usage 
 
 ## Vision
-We will crypto-based FOREX trading of FIAT and derivatives in our first phase of development. Ultimately, by means of our innovative "Social Payment app" we will bring crypto based payments and international money transfers to everyday life.
+We will facilitate crypto-based FOREX trading of FIAT and derivatives in our first phase of development. Ultimately, by means of our innovative "Social Payment app" we will bring crypto based payments and international money transfers to everyday life.
 
 ## Sardis's Performance
 - TPS: 2000+
