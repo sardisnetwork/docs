@@ -3,9 +3,9 @@ This document introduce the basic info of Sardis bridge:
 
 Contract Address：
 
-Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+Ethereum： [0x73A549B8bfB7aa52a3f8994B557f89124BeB2959](https://etherscan.io/address/0x73A549B8bfB7aa52a3f8994B557f89124BeB2959)
 
-Sardis: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://sardisinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+Sardis: [0xA375aD981F095fF84c4e6512988b80998acEb45d](https://contract-mainnet.sardisnetwork.com/address/0xA375aD981F095fF84c4e6512988b80998acEb45d/transactions)
 
 # How it works
 
