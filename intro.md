@@ -42,21 +42,12 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Current Stage of Sardis
-In December 2020, the Sardis Network, Sardis officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
-Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
-In October 2021,Sardis has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
-
+  
 ## Support Plan of Sardis
 ### Financial Support
 - Sardis will set up a special fund to invest, support and incentivize high-potential developers.
 - Sardis will launch a variety of developer activities and competitions to discover and fund potential developers. 
 - In order to reduce the cost of users on Sardis dApp, the Sardis meta transaction function will reduce the gas fee of users holding SRDX in a step-wise manner.
-
-### Resource Support
-- Projects or developers that have received investment and support from Sardishave not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
-- High-quality projects can participate in Sardisglobal roadshows for free.
-- Sardis ventures Sardisfund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 ### Participate in Test Environment of Sardis
 Official Website
