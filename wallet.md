@@ -41,9 +41,3 @@ RPC URL: https://testnet-rpc.sardisnetwork.com
 Block Explorer: https://contract-testnet.sardisnetwork.com
 ```
 
-
-
-
-# cointtype for Sardis
-
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md

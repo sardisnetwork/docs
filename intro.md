@@ -1,4 +1,4 @@
-# Sardis Network
+![Sardis](../images/sardislogo-273-75.png)
 
 ## Introduction to Sardis Network
 
