@@ -122,23 +122,23 @@ chainid 11612
 
 PRC
 wss://ws-testnet.sardisnetwork.com 
-https://contract-testnet.sardisnetwork.com/
+https://testnet-rpc.sardisnetwork.com/
 
 Blockchain Explorer
-https://contract-mainnet.sardisnetwork.com/
+https://testnet.sardisnetwork.com/
 
 Test Coin Faucet
 https://faucet.sardisnetwork.com/
 
 Technical Support Email
-DevContacts@sardisnetwork.com
+contact@mysardis.com
 
 ## Interact with Us on Social Media
 
 - Twitter: https://twitter.com/sardisnetwork
 - Telegram Channel: https://t.me/sardisnetwork
 - Medium: https://medium.com/sardis-network
-- GitHub: https://github.com/stars-labs/
+- GitHub: https://github.com/sardisnetwork/
 - SardisExplorer: https://contract-mainnet.sardisnetwork.com/
 - Documentation: https://docs.sardisnetwork.com/
 - Website: https://www.sardisnetwork.com/en-us/

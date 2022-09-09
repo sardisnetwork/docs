@@ -13,7 +13,7 @@ Both the mainnet and testnet genesis information of `Sardis` chain have been har
     - 000000000000000000000000000000000000f001 // punish contract address
     - 000000000000000000000000000000000000f002 // proposal contract address
 
-  System contract repo: [sardis-contracts](https://github.com/stars-labs/sardis-contracts)
+  System contract repo: [sardis-contracts](https://github.com/sardisnetwork/Smart-Contracts)
 
 ## mainnet
 ``` JSON

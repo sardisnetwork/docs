@@ -3,7 +3,7 @@
 ## Download
 Download source code via `git`
 ```
-    git clone https://github.com/stars-labs/sardisnetwork.git
+    git clone https://github.com/sardisnetwork/blockchain-core
 ```
 ## Install Golang
 Reference: [Go Download and install](https://golang.org/doc/install)
