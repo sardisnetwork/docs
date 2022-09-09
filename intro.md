@@ -116,7 +116,7 @@ In October 2021,Sardis has now entered the "Spark" phase, which focuses on impro
 
 ### Participate in Test Environment of Sardis
 Official Website
-www.sardisnetwork.com
+www.mysardis.com
 
 Public Testnet
 chainid 11612
