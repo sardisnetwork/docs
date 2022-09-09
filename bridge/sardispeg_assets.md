@@ -1,5 +1,5 @@
 # 跨鏈代幣說明
-##代幣	   HRC20合约
+##代幣	   SRC20合约
 
 USDT	  0xa71edc38d189767582c38a3145b5873052c3e47a  單次最小跨鏈 43.75，單次最大跨鏈 135,000
 
@@ -42,7 +42,7 @@ HBCH 0xaac679720204aaa68b6c5000aa87d789a3ca0aa5
 
 
 # Cross-chain token description
-##Token HRC20 contract
+##Token SRC20 contract
 
 USDT 0xa71edc38d189767582c38a3145b5873052c3e47a Single minimum cross-chain 43.75, Single maximum cross-chain 135,000
 
