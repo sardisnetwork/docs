@@ -21,7 +21,7 @@ Users who hold Sardis-peg LUNA, please deposit LUNA back to Sardis Global's pers
 
 There will be a migration and upgrade of LUNA when the block height reaches `7790000`, which is expected on May 27, 2022 00:00 (GMT+8).
 
-Huobi Global supports this migration and upgrade, which is expected to subsequently airdrop newly minted LUNA. A snapshot of user balances of LUNA in their Sardis Global accounts will be taken at block `7790000` for subsequent airdrops.
+Sardis Global supports this migration and upgrade, which is expected to subsequently airdrop newly minted LUNA. A snapshot of user balances of LUNA in their Sardis Global accounts will be taken at block `7790000` for subsequent airdrops.
 
 
 # Notice on the use of Sardis RPC
@@ -127,11 +127,11 @@ Questions about Participation
 
 1. What is a Sardis Global UID?
 
-[Huobi Global](http://www.huobi.com/）, established in 2013, is a financial services provider in global blockchain assets that offers a wide range of services including assets exchange, trading, wallet, and storage. UID is the ID of personal account with Sardis Global, which can be found by clicking on the upper left corner of its APP and the upper right corner of its Web page.
+[Sardis Global](http://www.mysardis.com/）, established in 2013, is a financial services provider in global blockchain assets that offers a wide range of services including assets exchange, trading, wallet, and storage. UID is the ID of personal account with Sardis Global, which can be found by clicking on the upper left corner of its APP and the upper right corner of its Web page.
 
-Telegram: https://t.me/huobiglobalofficial
+Telegram: https://t.me/sardisnetwork
 
-Twitter：https://twitter.com/HuobiGlobal
+Twitter：https://twitter.com/sardisnetwork
  
 2. What's Sardis？
 

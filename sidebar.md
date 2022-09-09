@@ -2,9 +2,8 @@
 - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
 - Bridge
-    - [SARDIS-peg assets](bridge/hecopeg_assets.md)
     - [User guide](bridge/user_guide.md)
-- [Asset-Peg Bridge](hecobridge.md)
+- [Asset-Peg Bridge](sardisbridge.md)
 - [Asset-Peg Manual](bridge.md)
 - [Consensus](consensus.md)
 - [Meta Transaction](dev/meta_tx.md)

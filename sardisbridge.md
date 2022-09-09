@@ -17,7 +17,7 @@ The process is:：
 
 1）Submit application
 
-contact bd or <devcontacts@sardisnetwork.com>
+contact bd or <contact@mysardis.com>
 
 2）Deploy token contract
 
