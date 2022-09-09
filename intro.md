@@ -132,7 +132,7 @@ Test Coin Faucet
 https://faucet.sardisnetwork.com/
 
 Technical Support Email
-DevContacts@sardisnetwork.com
+contact@mysardis.com
 
 ## Interact with Us on Social Media
 
@@ -149,4 +149,4 @@ DevContacts@sardisnetwork.com
 - All users and developers can participate in the current test environment and subsequent stages of Sardis for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
 - Sardis announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (sardisnetwork.com), and be cautious with private key phishing.
+- Do not misread the official website, and be cautious with private key phishing.
