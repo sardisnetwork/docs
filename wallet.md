@@ -13,7 +13,7 @@ You can add SRDX and SRDS networks by simply clicking on the Add Network button 
 https://contract-mainnet.sardisnetwork.com/
 
 Please use:
-
+![AddNetwork](addSRDX.jpg)
 
 You can also manually add custom network to MM：
 
