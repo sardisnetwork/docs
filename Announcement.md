@@ -1,9 +1,5 @@
 # The latest Announcement
 
-# New version of sardisnetwork.com is coming
+# Latest Announcement
 
-Dear users
-
-The new version of [sardisnetwork.com](https://sardisnetwork.com/) will be available. This upgrade will not affect your access, please use it with confidence.
-
-Best wishes.
+Please access this page frequently for new announcements and goodies. 
