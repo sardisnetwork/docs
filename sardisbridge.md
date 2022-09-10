@@ -28,5 +28,5 @@ Choose your asset of choice from the upper dropdown menu:
 ![Choose Asset](choose.jpg)
 
 You will receive the corresponding amount of SRDX coins in accordance with the current price point of your asset at the time of the transaction.<br>
-One SRDX = 1 USD<br>
+1 SRDX = 1 USD<br>
 Note that SRDX coins can only used inside the Sardis network to stake, become a validator or DEX usage.
