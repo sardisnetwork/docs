@@ -7,25 +7,24 @@ Access Sardis StakeDex at:
 
 # How it works
 
-First connect your Metamask wallet to the bridge:
+First connect your Metamask wallet to the App using the upper right connect button:
 
 ![Connect metamask](connectmmbridge.jpg)
 
 
-# Enter Sardis Network
+# Stake some SRDX
 
-Enter the Sardis Network using your crypto assets.
+Hit the "Stake" menu to access the staking page. <br>
 
-Currently we support ETH, USDT(ETH), BNB, USDT(BNB)<br>
-The crypto asset list will grow to encompass other assets also in time.
+Use the Stake pane to start staking <br>
+![Choose Asset](availablesrdx.jpg)
 
-Choose your asset of choice from the upper dropdown menu:
+Currently you can only stake SRDX.<br>
 
-![Choose Asset](choose.jpg)
+Type in the amount you wish to stake and hit confirm.<br>
 
-You will receive the corresponding amount of SRDX coins in accordance with the current price point of your asset at the time of the transaction.<br>
-1 SRDX = 1 USD<br>
+![Choose Asset](confirm.jpg)
 
-Note 1: You will not be able to use the Sardis Bridge without first having completed the KYC process and registered your Sardis Wallet address.<br>
+After this step you might have to wait for some minutes as legacy networks such as Ethereum and BNB take considerable time to confirm transactions. When the transactions are complete your staking will start. <br>
 
-Note 2: SRDX coins can only used inside the Sardis network to stake, become a validator or DEX usage.
+Please note that a yearly earning of 15% SRDX is guaranteed with staking.
