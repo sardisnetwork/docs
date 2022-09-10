@@ -7,8 +7,15 @@ Sardis supports metamask、TokenPocket etc.
 # metamask
 
 download url：https://metamask.io/
+Download metamask adding it as a browser extension.
 
-add custom network：
+You can add SRDX and SRDS networks by simply clicking on the Add Network button located on the footers of our explorers:
+https://contract-mainnet.sardisnetwork.com/
+
+Please use:
+
+
+You can also manually add custom network to MM：
 
 ## SARDIS Contract Mainnet
 
