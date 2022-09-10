@@ -1,5 +1,7 @@
 # Introduction
-This document introduce the basic info of Sardis bridge:
+Access the Sardis bridge at:
+
+https://bridge.sardisnetwork.com/
 
 Contract Address：
 
@@ -9,18 +11,22 @@ Sardis: [0xA375aD981F095fF84c4e6512988b80998acEb45d](https://contract-mainnet.sa
 
 # How it works
 
-![bridge](../images/bridge.png)
+First connect your Metamask wallet to the bridge:
 
-# Application for token-peg
+![Connect metamask](connectmmbridge.jpg)
 
-The process is:：
 
-1）Submit application
+# Enter Sardis Network
 
-contact bd or <contact@mysardis.com>
+Enter the Sardis Network using your crypto assets.
 
-2）Deploy token contract
+Currently we support ETH, USDT(ETH), BNB, USDT(BNB)<br>
+The crypto asset list will grow to encompass other assets also in time.
 
-3）Testing
+Choose your asset of choice from the upper dropdown menu:
 
-4）Online
+![Choose Asset](choose.jpg)
+
+You will receive the corresponding amount of SRDX coins in accordance with the current price point of your asset at the time of the transaction.<br>
+One SRDX = 1 USD<br>
+Note that SRDX coins can only used inside the Sardis network to stake, become a validator or DEX usage.
