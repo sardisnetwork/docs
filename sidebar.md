@@ -1,7 +1,7 @@
 - [About Sardis](intro.md)
 - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
-- [Asset-Peg Bridge](sardisbridge.md)
+- [Sardis Bridge](sardisbridge.md)
 - [Consensus](consensus.md)
 - [Genesis](genesis.md)
 - [Become Validator](Validator.md)
@@ -21,6 +21,6 @@
     - [Announcement](Announcement.md)
 - FAQ
     - [FAQ](faq.md)
-- Disclaimer
-    - [Disclaimer](disclaimer.md)
+- Terms of Use
+    - [Terms of Use](disclaimer.md)
     
