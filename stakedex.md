@@ -17,13 +17,13 @@ First connect your Metamask wallet to the App using the upper right connect butt
 Hit the "Stake" menu to access the staking page. <br>
 
 Use the Stake pane to start staking <br>
-![Choose Asset](availablesrdx.jpg)
+![Hit the Stake button](availablesrdx.jpg)
 
 Currently you can only stake SRDX.<br>
 
 Type in the amount you wish to stake and hit confirm.<br>
 
-![Choose Asset](confirm.jpg)
+![Confirm the amount of SRDX to stake](confirm.jpg)
 
 After this step you might have to wait for some minutes as legacy networks such as Ethereum and BNB take considerable time to confirm transactions. When the transactions are complete your staking will start. <br>
 
