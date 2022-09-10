@@ -10,7 +10,7 @@ download url：https://metamask.io/
 Download metamask adding it as a browser extension.
 
 You can add SRDX and SRDS networks by simply clicking on the Add Network button located on the footers of our explorers:
-https://contract-mainnet.sardisnetwork.com/
+https://contract-mainnet.sardisnetwork.com/ and https://payment-mainnet.sardisnetwork.com/
 
 Please use:
 ![AddNetwork](addSRDX.jpg)
