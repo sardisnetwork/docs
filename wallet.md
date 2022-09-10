@@ -21,8 +21,8 @@ https://kyc.sardisnetwork.com/
 ![KYC_Steps](steps.jpg)
 
 Step 1: Enter your profile information <br>
-Step 2: Fill in the KYC form and apply for a KYC
+Step 2: Fill in the KYC form and apply for a KYC <br>
 Step 3: After your KYC is approved copy your wallet address from metamask enter it in the Wallet form
-
+<br>
 ![Get your Wallet Address](copymm.jpg)
 
