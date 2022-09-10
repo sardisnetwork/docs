@@ -13,23 +13,9 @@ https://contract-mainnet.sardisnetwork.com/ and https://payment-mainnet.sardisne
 Please use:
 ![AddNetwork](addSRDX.jpg)
 
-You can also manually add custom network to MM：
-
-## SARDIS Contract Mainnet
-Chain ID: 51712
-RPC URL: https://mainnet-rpc.sardisnetwork.com
-Block Explorer: https://contract-mainnet.sardisnetwork.com
-```
-## SARDIS Payment Mainnet
-Chain ID: 11512
-RPC URL: https://payment-rpc.sardisnetwork.com
-Block Explorer: https://payment-mainnet.sardisnetwork.com
-
-## Testnet
-Chain ID: 11612
-RPC URL: https://testnet-rpc.sardisnetwork.com
-Block Explorer: https://contract-testnet.sardisnetwork.com
-```
-
 # Sardis KYC
 
+Go to: 
+https://kyc.sardisnetwork.com/
+
+![KYC_Steps](Steps.jpg)
