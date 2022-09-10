@@ -1,7 +1,7 @@
 # Summary
 
 Use metamask to enter the Sardis network. 
-
+to
 # metamask
 
 download url：https://metamask.io/
@@ -18,4 +18,11 @@ Please use:
 Go to: 
 https://kyc.sardisnetwork.com/
 
-![KYC_Steps](Steps.jpg)
+![KYC_Steps](steps.jpg)
+
+Step 1: Enter your profile information
+Step 2: Fill in the KYC form and apply for a KYC
+Step 3: After your KYC is approved copy your wallet address from metamask enter it in the Wallet form
+
+![Get your Wallet Address](copymm.jpg)
+
