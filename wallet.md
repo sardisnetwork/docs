@@ -1,7 +1,7 @@
 # Summary
 
 Use metamask to enter the Sardis network. 
-to
+
 # metamask
 
 download url：https://metamask.io/
