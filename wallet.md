@@ -1,6 +1,6 @@
-# Summary
+# Introduction
 
-Use metamask to enter the Sardis network. 
+Use metamask to enter the Sardis network and do transactions in the dAPPs. Native Sardis Network wallet will be introduced in the near future. 
 
 # metamask
 
