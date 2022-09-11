@@ -25,6 +25,6 @@ Type in the amount you wish to stake and hit confirm.<br>
 
 ![Confirm the amount of SRDX to stake](confirm.jpg)
 
-After this step you might have to wait for some minutes as legacy networks such as Ethereum and BNB take considerable time to confirm transactions. When the transactions are complete your staking will start. <br>
+When the transaction is complete your staking will start. <br>
 
 Please note that a yearly earning of 15% SRDX is guaranteed with staking.
