@@ -77,7 +77,7 @@ contact@mysardis.com
 - GitHub: https://github.com/sardisnetwork/
 - SardisExplorer: https://contract-mainnet.sardisnetwork.com/
 - Documentation: https://docs.sardisnetwork.com/
-- Website: https://www.sardisnetwork.com/en-us/
+- Website: https://mysardis.com
   
 
 ## Risk Warning
