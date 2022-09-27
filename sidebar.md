@@ -1,7 +1,8 @@
 - [About Sardis](intro.md)
 - [Integrity and Compliance](Integrity.md)
-- [Wallet](wallet.md)
-- [Asset-Peg Bridge](sardisbridge.md)
+- [Wallet - Enter Sardis Network](wallet.md)
+- [Sardis Bridge - Get SRDX](sardisbridge.md)
+- [Sardis Stake & DEX - Staking SRDX](stakedex.md)
 - [Consensus](consensus.md)
 - [Genesis](genesis.md)
 - [Become Validator](Validator.md)
@@ -21,6 +22,6 @@
     - [Announcement](Announcement.md)
 - FAQ
     - [FAQ](faq.md)
-- Disclaimer
-    - [Disclaimer](disclaimer.md)
+- Terms of Use
+    - [Terms of Use](disclaimer.md)
     

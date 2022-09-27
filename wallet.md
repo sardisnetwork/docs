@@ -1,43 +1,28 @@
-# Summary
+# Introduction
 
-Sardis supports metamask、TokenPocket etc.
-
-> NOTE: Check compitibility before using wallet, Ledger is not supported.
+Use metamask to enter the Sardis network and do transactions in the dAPPs. Native Sardis Network wallet will be introduced in the near future. 
 
 # metamask
 
 download url：https://metamask.io/
+Download metamask adding it as a browser extension.
 
-add custom network：
+You can add SRDX and SRDS networks to metamask by simply clicking on the Add Network button located on the footers of our explorers:<br>
+https://contract-mainnet.sardisnetwork.com/ and https://payment-mainnet.sardisnetwork.com/
 
-## SARDIS Contract Mainnet
+Please use:
+![AddNetwork](addSRDX.jpg)
 
+# Sardis KYC
 
-```
-Chain ID: 51712
-RPC URL: https://mainnet-rpc.sardisnetwork.com
-Block Explorer: https://contract-mainnet.sardisnetwork.com
-```
+Go to: 
+https://kyc.sardisnetwork.com/
 
-![metamask]
+![KYC_Steps](steps.jpg)
 
-
-## SARDIS Payment Mainnet
-
-
-```
-Chain ID: 11512
-RPC URL: https://payment-rpc.sardisnetwork.com
-Block Explorer: https://payment-mainnet.sardisnetwork.com
-```
-
-![metamask]
-
-## Testnet
-
-```
-Chain ID: 11612
-RPC URL: https://testnet-rpc.sardisnetwork.com
-Block Explorer: https://contract-testnet.sardisnetwork.com
-```
+Step 1: Enter your profile information <br>
+Step 2: Fill in the KYC form and apply for a KYC <br>
+Step 3: After your KYC is approved copy your wallet address from metamask enter it in the Wallet form
+<br>
+![Get your Wallet Address](copymm.jpg)
 
