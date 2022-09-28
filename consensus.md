@@ -1,5 +1,5 @@
 # Consensus
-`Sardis` adopts `DPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
+`Sardis` adopts `hPOS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
 
 To become a validator, you need to submit a proposal first and wait for other active validators to vote on it, after more than half of them pass, you will be eligible to become a validator. Any address can stake to an address that qualifies to become a validator, and after the validator's staking volume ranks in the top 21, it will become an active validator in the next epoch.
 
