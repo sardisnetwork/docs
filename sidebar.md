@@ -1,6 +1,6 @@
 - [About Sardis](intro.md)
 - [Integrity and Compliance](Integrity.md)
-- [Wallet - Enter Sardis Network](wallet.md)
+- [Open Sardis Account - Enter Sardis Network](wallet.md)
 - [Sardis Bridge - Get SRDX](sardisbridge.md)
 - [Sardis Stake & DEX - Staking SRDX](stakedex.md)
 - [Consensus](consensus.md)
