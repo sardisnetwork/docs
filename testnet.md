@@ -11,7 +11,7 @@ https://testnet-rpc.sardisnetwork.com
 
 ## explorer
 ```
-https://contract-testnet.sardisnetwork.com
+https://testnet.sardisnetwork.com
 ```
 
 ## faucet
