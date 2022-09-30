@@ -19,7 +19,7 @@ We will facilitate crypto-based FOREX trading of FIAT and derivatives in our fir
 - Transaction time: Less then 3s
 
 ## Consensus Mechanism
-DPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
+hPOS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
 
 The maximum number of validators supported is 21.
 
