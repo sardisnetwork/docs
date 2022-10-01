@@ -71,14 +71,14 @@ contact@mysardis.com
 
 ## Interact with Us on Social Media and Other Platforms
 
- Twitter: https://twitter.com/mysardis
- Telegram Channel: https://t.me/sardisblockchain
- Medium: https://medium.com/@mysardis
- GitHub: https://github.com/sardisnetwork/
- SardisExplorers: https://contract-mainnet.sardisnetwork.com/
- SardisExplorers: https://payment-mainnet.sardisnetwork.com/
- SardisExplorers: https://testnet.sardisnetwork.com/
- Documentation: https://mysardis.com/archive-documents/
+ Twitter: https://twitter.com/mysardis <br>
+ Telegram Channel: https://t.me/sardisblockchain <br>
+ Medium: https://medium.com/@mysardis <br>
+ GitHub: https://github.com/sardisnetwork/ <br>
+ SardisExplorers: https://contract-mainnet.sardisnetwork.com/ <br>
+ SardisExplorers: https://payment-mainnet.sardisnetwork.com/ <br>
+ SardisExplorers: https://testnet.sardisnetwork.com/ <br>
+ Documentation: https://mysardis.com/archive-documents/ <br>
  Website: https://mysardis.com
 
 
