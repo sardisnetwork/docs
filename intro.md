@@ -69,15 +69,17 @@ https://faucet.sardisnetwork.com/
 Technical Support Email
 contact@mysardis.com
 
-## Interact with Us on Social Media
+## Interact with Us on Social Media and Other Platforms
 
- • Twitter: https://twitter.com/mysardis
- • Telegram Channel: https://t.me/sardisblockchain
- • Medium: https://medium.com/@mysardis
- • GitHub: https://github.com/sardisnetwork/
- • SardisExplorer: https://contract-mainnet.sardisnetwork.com/
- • Documentation: https://mysardis.com/archive-documents/
- • Website: https://mysardis.com
+ Twitter: https://twitter.com/mysardis
+ Telegram Channel: https://t.me/sardisblockchain
+ Medium: https://medium.com/@mysardis
+ GitHub: https://github.com/sardisnetwork/
+ SardisExplorers: https://contract-mainnet.sardisnetwork.com/
+ SardisExplorers: https://payment-mainnet.sardisnetwork.com/
+ SardisExplorers: https://testnet.sardisnetwork.com/
+ Documentation: https://mysardis.com/archive-documents/
+ Website: https://mysardis.com
 
 
 ## Risk Warning
