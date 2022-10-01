@@ -71,14 +71,14 @@ contact@mysardis.com
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/sardisnetwork
-- Telegram Channel: https://t.me/sardisnetwork
-- Medium: https://medium.com/sardis-network
-- GitHub: https://github.com/sardisnetwork/
-- SardisExplorer: https://contract-mainnet.sardisnetwork.com/
-- Documentation: https://docs.sardisnetwork.com/
-- Website: https://mysardis.com
-  
+ • Twitter: https://twitter.com/mysardis
+ • Telegram Channel: https://t.me/sardisblockchain
+ • Medium: https://medium.com/@mysardis
+ • GitHub: https://github.com/sardisnetwork/
+ • SardisExplorer: https://contract-mainnet.sardisnetwork.com/
+ • Documentation: https://mysardis.com/archive-documents/
+ • Website: https://mysardis.com
+
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Sardis for free, and there is no charging scenario.
