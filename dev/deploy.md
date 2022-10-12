@@ -4,7 +4,7 @@ introduce systemd management configs。
 
 ## Hardware
 
-### minimun
+### minimum
 
 ```
 8core
