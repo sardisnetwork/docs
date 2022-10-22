@@ -14,7 +14,7 @@ To bring crypto to everyday usage
 We will facilitate crypto-based FOREX trading of FIAT and derivatives in our first phase of development. Ultimately, by means of our innovative "Social Payment app" we will bring crypto based payments and international money transfers to everyday life.
 
 ## Sardis's Performance
-- TPS: 2000+
+- TPS: 20000+
 - Average block interval: 3s
 - Transaction time: Less then 3s
 
