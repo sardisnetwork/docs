@@ -21,17 +21,17 @@ We will facilitate crypto-based FOREX trading of FIAT and derivatives in our fir
 ## Consensus Mechanism
 hPOS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
 
-The maximum number of validators supported is 21.
+The maximum number of active validators supported is 21. 
 
 ## Economic Model 
 The endogenous token on the chain is SRDX; the transactions consume SRDX as gas fee.
 
 Miners pledge SRDX to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
-## Cross-Chain
-Assets such as BNB, ETH and stable coins can be mapped to Sardis by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
+Miners are also eligible to join the +V validator pool. Details of +V will be shared in the near future.
 
-Sardis encourages developers to provide more decentralized cross-chain solution.  
+## Cross-Chain
+Assets such as BNB, ETH and stable coins can be mapped to Sardis by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. The prices are drawn realtime and values calculated on-the-fly.
 
 ## Meta Transaction Function
 The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Sardis will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
