@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"web3 derne\u011fi","permalink":"/blog/tags/web-3-dernegi","count":1},{"label":"sardis","permalink":"/blog/tags/sardis","count":1},{"label":"ecosystem","permalink":"/blog/tags/ecosystem","count":1}]')}}]);
